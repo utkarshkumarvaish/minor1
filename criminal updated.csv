@@ -1,0 +1,607 @@
+ID,Name,Area,State,Type of Crime,Date of Case Registration,Lawyer Assigned,Age,Case Status,Case ID,Decision
+202460,Aarav Sharma,Chandigarh,Haryana,Theft,25-08-2023,Rajat Malhotra,28,In Progress,HR2023-1101,Pending
+202461,Vikram Patel,Surat,Gujarat,Kidnapping,18-07-2023,Swati Desai,30,Awaiting Trial,GJ2023-1102,Pending
+202462,Arjun Singh,Kanpur,UP,Assault,12-09-2023,Rajesh Verma,29,In Progress,UP2023-1103,Pending
+202463,Siddharth Verma,Coimbatore,Tamil Nadu,Drug Trafficking,20-08-2023,Neha Singh,32,Awaiting Verdict,TN2023-1104,Pending
+202464,Rajat Gupta,Nagpur,Maharashtra,Cyber Fraud,01-09-2023,Vikram Desai,33,In Court,MH2023-1105,Guilty
+202465,Karthik Yadav,Ludhiana,Punjab,Burglary,10-09-2023,Arjun Khanna,27,In Progress,PB2023-1106,Pending
+202466,Mohan Mehta,Visakhapatnam,Andhra Pradesh,Murder,05-09-2023,Meera Kapoor,36,Pending Investigation,AP2023-1107,Under Review
+202467,Ravi Chauhan,Raipur,Chhattisgarh,Vandalism,15-07-2023,Amit Kumar,28,In Progress,CG2023-1108,Pending
+202468,Pranav Reddy,Kochi,Kerala,Fraud,10-08-2023,Vivek Nair,34,Awaiting Trial,KL2023-1109,Pending
+202469,Alok Bhatia,Bhopal,Madhya Pradesh,Robbery,25-08-2023,Richa Singh,29,In Progress,MP2023-1110,Pending
+202470,Samir Khanna,Guwahati,Assam,Theft,18-07-2023,Rajesh Kumar,33,Awaiting Verdict,AS2023-1111,Pending
+202471,Manish Sharma,Patna,Bihar,Kidnapping,12-09-2023,Vinod Verma,31,Pending Investigation,BR2023-1112,Under Review
+202472,Abhinav Joshi,Dehradun,Uttarakhand,Cyber Fraud,20-08-2023,Neeraj Sharma,26,In Progress,UK2023-1113,Pending
+202473,Shubham Kapoor,Ranchi,Jharkhand,Drug Trafficking,05-09-2023,Pooja Gupta,29,Awaiting Verdict,JH2023-1114,Pending
+202474,Rohit Srinivasan,Amritsar,Punjab,Murder,01-09-2023,Karan Malhotra,32,In Progress,PB2023-1115,Pending
+202475,Suresh Menon,Jammu,Jammu and Kashmir,Assault,10-09-2023,Meena Kapoor,30,In Progress,J&K2023-1116,Pending
+202476,Devendra Kapoor,Imphal,Manipur,Robbery,25-08-2023,Vijay Singh,28,Pending Investigation,MN2023-1117,Under Review
+202477,Nirav Das,Agartala,Tripura,Assault,18-07-2023,Kriti Sharma,35,Awaiting Verdict,TR2023-1118,Pending
+202478,Akshay Desai,Gangtok,Sikkim,Fraud,12-09-2023,Sonia Reddy,33,Awaiting Trial,SK2023-1119,Pending
+202479,Yash Kapoor,Bhubaneswar,Odisha,Vandalism,20-08-2023,Rajiv Mehta,30,In Progress,OD2023-1120,Pending
+202480,Rajesh Patel,Shimla,Himachal Pradesh,Kidnapping,10-09-2023,Priya Kapoor,27,Awaiting Trial,HP2023-1121,Pending
+202481,Anil Verma,Itanagar,Arunachal Pradesh,Cyber Fraud,01-09-2023,Anil Kumar,29,Pending Investigation,AR2023-1122,Under Review
+202482,Abhishek Dhillon,Kolkata,West Bengal,Burglary,25-08-2023,Nisha Kapoor,31,Awaiting Verdict,WB2023-1123,Pending
+202483,Gaurav Mehta,Aizawl,Mizoram,Murder,18-07-2023,Ravi Verma,38,In Progress,MZ2023-1124,Pending
+202484,Varun Arora,Chandigarh,Haryana,Robbery,12-09-2023,Rajat Malhotra,29,In Progress,HR2023-1125,Pending
+202485,Parth Malhotra,Surat,Gujarat,Fraud,20-08-2023,Swati Desai,35,In Progress,GJ2023-1126,Pending
+202486,Suraj Rana,Kanpur,UP,Vandalism,01-09-2023,Rajesh Verma,28,Awaiting Trial,UP2023-1127,Pending
+202487,Neeraj Choudhary,Coimbatore,Tamil Nadu,Drug Possession,10-09-2023,Neha Singh,34,In Progress,TN2023-1128,Pending
+202488,Aman Seth,Nagpur,Maharashtra,Kidnapping,05-09-2023,Vikram Desai,30,Awaiting Verdict,MH2023-1129,Pending
+202489,Piyush Joshi,Ludhiana,Punjab,Assault,18-07-2023,Arjun Khanna,32,In Progress,PB2023-1130,Pending
+202490,Kunal Agarwal,Visakhapatnam,Andhra Pradesh,Burglary,12-09-2023,Meera Kapoor,28,Awaiting Trial,AP2023-1131,Pending
+202491,Ranjeet Chauhan,Raipur,Chhattisgarh,Cyber Fraud,20-08-2023,Amit Kumar,31,Pending Investigation,CG2023-1132,Under Review
+202492,Dhruv Gupta,Kochi,Kerala,Robbery,10-09-2023,Vivek Nair,29,Awaiting Verdict,KL2023-1133,Pending
+202493,Sandeep Iyer,Bhopal,Madhya Pradesh,Murder,25-08-2023,Richa Singh,36,In Progress,MP2023-1134,Pending
+202494,Shashi Kumar,Guwahati,Assam,Drug Trafficking,01-09-2023,Rajesh Kumar,33,In Progress,AS2023-1135,Pending
+202495,Prateek Deshmukh,Patna,Bihar,Kidnapping,18-07-2023,Vinod Verma,30,Pending Investigation,BR2023-1136,Under Review
+202496,Rohan Rastogi,Dehradun,Uttarakhand,Assault,12-09-2023,Neeraj Sharma,26,In Progress,UK2023-1137,Pending
+202497,Sunil Mehta,Ranchi,Jharkhand,Vandalism,20-08-2023,Pooja Gupta,29,Awaiting Trial,JH2023-1138,Pending
+202498,Sameer Kapoor,Amritsar,Punjab,Drug Trafficking,05-09-2023,Karan Malhotra,34,In Progress,PB2023-1139,Pending
+202499,Vishal Verma,Jammu,Jammu and Kashmir,Murder,01-09-2023,Meena Kapoor,31,Pending Investigation,J&K2023-1140,Under Review
+202500,Rishabh Sharma,Imphal,Manipur,Burglary,10-09-2023,Vijay Singh,28,Pending Investigation,MN2023-1141,Under Review
+202501,Kamal Suri,Agartala,Tripura,Robbery,25-08-2023,Kriti Sharma,33,Awaiting Verdict,TR2023-1142,Pending
+202502,Chetan Reddy,Gangtok,Sikkim,Cyber Fraud,01-09-2023,Sonia Reddy,29,Awaiting Trial,SK2023-1143,Pending
+202503,Abhay Sinha,Bhubaneswar,Odisha,Assault,20-08-2023,Rajiv Mehta,36,In Progress,OD2023-1144,Pending
+202504,Surya Menon,Shimla,Himachal Pradesh,Kidnapping,18-07-2023,Priya Kapoor,31,Pending Investigation,HP2023-1145,Under Review
+202505,Deepak Iyer,Itanagar,Arunachal Pradesh,Burglary,12-09-2023,Anil Kumar,27,Pending Investigation,AR2023-1146,Under Review
+202506,Abhinay Rana,Kolkata,West Bengal,Fraud,25-08-2023,Nisha Kapoor,34,In Progress,WB2023-1147,Pending
+202507,Chirag Kapoor,Aizawl,Mizoram,Vandalism,01-09-2023,Ravi Verma,29,Awaiting Trial,MZ2023-1148,Pending
+202508,Rajat Bajaj,Chandigarh,Haryana,Kidnapping,10-09-2023,Rajat Malhotra,35,In Progress,HR2023-1149,Pending
+202509,Utkarsh Patel,Surat,Gujarat,Drug Possession,20-08-2023,Swati Desai,28,Pending Investigation,GJ2023-1150,Under Review
+202510,Bhavesh Dhillon,Kanpur,UP,Burglary,18-07-2023,Rajesh Verma,32,In Progress,UP2023-1151,Pending
+202511,Prashant Sharma,Coimbatore,Tamil Nadu,Robbery,12-09-2023,Neha Singh,30,Awaiting Verdict,TN2023-1152,Pending
+202512,Manoj Bhatia,Nagpur,Maharashtra,Assault,25-08-2023,Vikram Desai,27,Awaiting Trial,MH2023-1153,Pending
+202513,Shyam Verma,Ludhiana,Punjab,Drug Trafficking,01-09-2023,Arjun Khanna,33,Pending Investigation,PB2023-1154,Under Review
+202514,Vikas Kapoor,Visakhapatnam,Andhra Pradesh,Murder,10-09-2023,Meera Kapoor,29,Awaiting Verdict,AP2023-1155,Pending
+202515,Anand Reddy,Raipur,Chhattisgarh,Robbery,20-08-2023,Amit Kumar,34,In Progress,CG2023-1156,Pending
+202516,Siddharth Desai,Kochi,Kerala,Cyber Fraud,18-07-2023,Vivek Nair,31,Awaiting Trial,KL2023-1157,Pending
+202517,Shivendra Singh,Bhopal,Madhya Pradesh,Assault,12-09-2023,Richa Singh,27,Pending Investigation,MP2023-1158,Under Review
+202518,Harish Verma,Guwahati,Assam,Kidnapping,25-08-2023,Rajesh Kumar,36,Awaiting Verdict,AS2023-1159,Pending
+202519,Deepak Patel,Patna,Bihar,Fraud,01-09-2023,Vinod Verma,30,In Progress,BR2023-1160,Pending
+202520,Hitesh Mehta,Dehradun,Uttarakhand,Vandalism,10-09-2023,Neeraj Sharma,33,Awaiting Trial,UK2023-1161,Pending
+202521,Rajan Bajaj,Ranchi,Jharkhand,Burglary,20-08-2023,Pooja Gupta,28,Pending Investigation,JH2023-1162,Under Review
+202522,Keshav Rana,Amritsar,Punjab,Murder,18-07-2023,Karan Malhotra,35,Awaiting Verdict,PB2023-1163,Pending
+202523,Ramesh Gupta,Jammu,Jammu and Kashmir,Robbery,12-09-2023,Meena Kapoor,29,In Progress,J&K2023-1164,Pending
+202524,Manish Kapoor,Imphal,Manipur,Cyber Fraud,25-08-2023,Vijay Singh,32,Awaiting Trial,MN2023-1165,Pending
+202525,Nitin Choudhary,Agartala,Tripura,Assault,01-09-2023,Kriti Sharma,28,In Progress,TR2023-1166,Pending
+202526,Sanjay Joshi,Gangtok,Sikkim,Kidnapping,10-09-2023,Sonia Reddy,30,Awaiting Verdict,SK2023-1167,Pending
+202527,Prashant Arora,Bhubaneswar,Odisha,Drug Trafficking,20-08-2023,Rajiv Mehta,33,Pending Investigation,OD2023-1168,Pending
+202528,Raju Srinivasan,Shimla,Himachal Pradesh,Murder,18-07-2023,Priya Kapoor,36,Pending Investigation,HP2023-1169,Pending
+202529,Pradeep Reddy,Itanagar,Arunachal Pradesh,Robbery,12-09-2023,Anil Kumar,29,Awaiting Verdict,AR2023-1170,Pending
+202530,Mohit Sharma,Kolkata,West Bengal,Fraud,25-08-2023,Nisha Kapoor,34,Awaiting Trial,WB2023-1171,Pending
+202531,Deepak Suri,Aizawl,Mizoram,Vandalism,01-09-2023,Ravi Verma,31,In Progress,MZ2023-1172,Pending
+202532,Rakesh Singh,Chandigarh,Haryana,Burglary,10-09-2023,Rajat Malhotra,27,Pending Investigation,HR2023-1173,Pending
+202533,Pramod Iyer,Surat,Gujarat,Drug Possession,20-08-2023,Swati Desai,32,Pending Investigation,GJ2023-1174,Pending
+202534,Rishi Agarwal,Kanpur,Uttar Pradesh,Assault,18-07-2023,Rajesh Verma,30,In Progress,UP2023-1175,Pending
+202535,Ankur Mehta,Coimbatore,Tamil Nadu,Kidnapping,12-09-2023,Neha Singh,35,Awaiting Verdict,TN2023-1176,Pending
+202536,Surinder Bhatia,Nagpur,Maharashtra,Robbery,25-08-2023,Vikram Desai,28,Awaiting Trial,MH2023-1177,Pending
+202537,Yogesh Rastogi,Ludhiana,Punjab,Drug Trafficking,01-09-2023,Arjun Khanna,33,Pending Investigation,PB2023-1178,Pending
+202538,Prakash Dhillon,Visakhapatnam,Andhra Pradesh,Murder,10-09-2023,Meera Kapoor,36,Awaiting Verdict,AP2023-1179,Pending
+202539,Vijay Kumar,Raipur,Chhattisgarh,Robbery,20-08-2023,Amit Kumar,29,In Progress,CG2023-1180,Pending
+202540,Pranav Garg,Kochi,Kerala,Cyber Fraud,18-07-2023,Vivek Nair,34,Pending Investigation,KL2023-1181,Pending
+202541,Anupam Mehta,Bhopal,Madhya Pradesh,Assault,12-09-2023,Richa Singh,27,Awaiting Trial,MP2023-1182,Pending
+202542,Subodh Joshi,Guwahati,Assam,Burglary,25-08-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1183,Pending
+202543,Pramod Verma,Patna,Bihar,Fraud,01-09-2023,Vinod Verma,30,In Progress,BR2023-1184,Pending
+202544,Ashok Kapoor,Dehradun,Uttarakhand,Kidnapping,10-09-2023,Neeraj Sharma,26,Pending Investigation,UK2023-1185,Pending
+202545,Ramesh Iyer,Ranchi,Jharkhand,Vandalism,20-08-2023,Pooja Gupta,29,Awaiting Trial,JH2023-1186,Pending
+202546,Dinesh Patel,Amritsar,Punjab,Drug Trafficking,05-09-2023,Karan Malhotra,34,In Progress,PB2023-1187,Pending
+202547,Arvind Chauhan,Jammu,Jammu and Kashmir,Murder,01-09-2023,Meena Kapoor,31,Pending Investigation,J&K2023-1188,Pending
+202548,Kishor Sharma,Imphal,Manipur,Assault,12-09-2023,Vijay Singh,29,Pending Investigation,MN2023-1189,Under Review
+202549,Sanjeev Rana,Agartala,Tripura,Burglary,25-08-2023,Kriti Sharma,32,Awaiting Verdict,TR2023-1190,Pending
+202550,Vijay Verma,Gangtok,Sikkim,Kidnapping,01-09-2023,Sonia Reddy,28,Awaiting Trial,SK2023-1191,Pending
+202551,Krishan Kumar,Bhubaneswar,Odisha,Fraud,20-08-2023,Rajiv Mehta,34,In Progress,OD2023-1192,Pending
+202552,Deepak Bhatia,Shimla,Himachal Pradesh,Vandalism,18-07-2023,Priya Kapoor,30,Pending Investigation,HP2023-1193,Pending
+202553,Abhishek Srinivasan,Itanagar,Arunachal Pradesh,Robbery,12-09-2023,Anil Kumar,35,Awaiting Verdict,AR2023-1194,Pending
+202554,Manish Arora,Kolkata,West Bengal,Drug Trafficking,25-08-2023,Nisha Kapoor,27,Awaiting Trial,WB2023-1195,Pending
+202555,Sandeep Mehta,Aizawl,Mizoram,Murder,01-09-2023,Ravi Verma,33,Pending Investigation,MZ2023-1196,Pending
+202556,Raju Kapoor,Chandigarh,Haryana,Cyber Fraud,10-09-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1197,Pending
+202557,Dhruv Rastogi,Surat,Gujarat,Burglary,20-08-2023,Swati Desai,36,Pending Investigation,GJ2023-1198,Pending
+202558,Pranav Iyer,Kanpur,Uttar Pradesh,Kidnapping,18-07-2023,Rajesh Verma,28,Pending Investigation,UP2023-1199,Pending
+202559,Saurabh Bajaj,Coimbatore,Tamil Nadu,Assault,12-09-2023,Neha Singh,32,Pending Investigation,TN2023-1200,Pending
+202560,Sunil Deshmukh,Nagpur,Maharashtra,Robbery,25-08-2023,Vikram Desai,29,Pending Investigation,MH2023-1201,Pending
+202561,Chirag Mehta,Ludhiana,Punjab,Drug Possession,01-09-2023,Arjun Khanna,34,Pending Investigation,PB2023-1202,Pending
+202562,Hitesh Menon,Visakhapatnam,Andhra Pradesh,Kidnapping,10-09-2023,Meera Kapoor,31,Pending Investigation,AP2023-1203,Pending
+202563,Samir Sharma,Raipur,Chhattisgarh,Burglary,20-08-2023,Amit Kumar,27,Pending Investigation,CG2023-1204,Pending
+202564,Alok Verma,Kochi,Kerala,Robbery,18-07-2023,Vivek Nair,33,Pending Investigation,KL2023-1205,Pending
+202565,Arun Patel,Bhopal,Madhya Pradesh,Cyber Fraud,12-09-2023,Richa Singh,30,Pending Investigation,MP2023-1206,Pending
+202566,Abhay Srinivasan,Guwahati,Assam,Murder,25-08-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1207,Pending
+202567,Pradeep Gupta,Patna,Bihar,Assault,01-09-2023,Vinod Verma,28,Pending Investigation,BR2023-1208,Pending
+202568,Ravi Kumar,Dehradun,Uttarakhand,Vandalism,10-09-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1209,Pending
+202569,Rajiv Sinha,Ranchi,Jharkhand,Burglary,20-08-2023,Pooja Gupta,31,Pending Investigation,JH2023-1210,Pending
+202570,Anand Verma,Amritsar,Punjab,Robbery,18-07-2023,Karan Malhotra,29,Pending Investigation,PB2023-1211,Pending
+202571,Sameer Menon,Jammu,Jammu and Kashmir,Drug Trafficking,12-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1212,Pending
+202572,Shubham Kapoor,Imphal,Manipur,Fraud,25-08-2023,Vijay Singh,27,Pending Investigation,MN2023-1213,Pending
+202573,Rishabh Desai,Agartala,Tripura,Burglary,01-09-2023,Kriti Sharma,32,Pending Investigation,TR2023-1214,Pending
+202574,Nirav Patel,Gangtok,Sikkim,Kidnapping,20-08-2023,Sonia Reddy,28,Pending Investigation,SK2023-1215,Pending
+202575,Anil Bhatia,Bhubaneswar,Odisha,Assault,18-07-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1216,Pending
+202576,Akshay Mehta,Shimla,Himachal Pradesh,Vandalism,12-09-2023,Priya Kapoor,30,Pending Investigation,HP2023-1217,Pending
+202577,Vikram Sharma,Itanagar,Arunachal Pradesh,Robbery,25-08-2023,Anil Kumar,35,Pending Investigation,AR2023-1218,Pending
+202578,Aarav Gupta,Kolkata,West Bengal,Drug Trafficking,01-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1219,Pending
+202579,Parth Rana,Aizawl,Mizoram,Murder,10-09-2023,Ravi Verma,33,Pending Investigation,MZ2023-1220,Pending
+202580,Prateek Kapoor,Chandigarh,Haryana,Cyber Fraud,20-08-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1221,Pending
+202581,Manish Suri,Surat,Gujarat,Burglary,18-07-2023,Swati Desai,36,Pending Investigation,GJ2023-1222,Pending
+202582,Gaurav Joshi,Kanpur,Uttar Pradesh,Kidnapping,12-09-2023,Rajesh Verma,28,Pending Investigation,UP2023-1223,Pending
+202583,Kamal Verma,Coimbatore,Tamil Nadu,Assault,25-08-2023,Neha Singh,32,Pending Investigation,TN2023-1224,Pending
+202584,Samir Choudhary,Nagpur,Maharashtra,Robbery,01-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1225,Pending
+202585,Rakesh Menon,Ludhiana,Punjab,Drug Possession,10-09-2023,Arjun Khanna,34,Pending Investigation,PB2023-1226,Pending
+202586,Abhinav Kapoor,Visakhapatnam,Andhra Pradesh,Kidnapping,20-08-2023,Meera Kapoor,31,Pending Investigation,AP2023-1227,Pending
+202587,Anil Mehta,Raipur,Chhattisgarh,Burglary,18-07-2023,Amit Kumar,27,Pending Investigation,CG2023-1228,Pending
+202588,Utkarsh Srinivasan,Kochi,Kerala,Robbery,12-09-2023,Vivek Nair,33,Pending Investigation,KL2023-1229,Pending
+202589,Ranjeet Sharma,Bhopal,Madhya Pradesh,Cyber Fraud,25-08-2023,Richa Singh,30,Pending Investigation,MP2023-1230,Pending
+202590,Mohan Patel,Guwahati,Assam,Murder,01-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1231,Pending
+202591,Karthik Rastogi,Patna,Bihar,Assault,10-09-2023,Vinod Verma,28,Pending Investigation,BR2023-1232,Pending
+202592,Vikram Deshmukh,Dehradun,Uttarakhand,Vandalism,20-08-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1233,Pending
+202593,Suresh Arora,Ranchi,Jharkhand,Burglary,18-07-2023,Pooja Gupta,31,Pending Investigation,JH2023-1234,Pending
+202594,Abhishek Kapoor,Amritsar,Punjab,Robbery,12-09-2023,Karan Malhotra,29,Pending Investigation,PB2023-1235,Pending
+202595,Rohit Verma,Jammu,Jammu and Kashmir,Drug Trafficking,25-08-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1236,Pending
+202596,Neeraj Patel,Imphal,Manipur,Fraud,01-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1237,Pending
+202597,Rajat Menon,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1238,Pending
+202598,Pranav Bhatia,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1239,Pending
+202599,Dhruv Chauhan,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1240,Pending
+202600,Yash Mehta,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1241,Pending
+202601,Alok Suri,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1242,Pending
+202602,Samir Kapoor,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1243,Pending
+202603,Manish Verma,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1244,Pending
+202604,Anand Joshi,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1245,Pending
+202605,Kunal Bajaj,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1246,Pending
+202606,Abhishek Mehta,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1247,Pending
+202607,Suraj Verma,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1248,Pending
+202608,Shashi Sharma,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1249,Pending
+202609,Prateek Iyer,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1250,Pending
+202610,Ashish Rastogi,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1251,Pending
+202611,Kamal Verma,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1252,Pending
+202612,Varun Joshi,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1253,Pending
+202613,Sandeep Patel,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1254,Pending
+202614,Piyush Arora,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1255,Pending
+202615,Rajesh Verma,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1256,Pending
+202616,Gaurav Mehta,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1257,Pending
+202617,Anil Kapoor,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1258,Pending
+202618,Sameer Rastogi,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1259,Pending
+202619,Devendra Sharma,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1260,Pending
+202620,Utkarsh Rana,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1261,Pending
+202621,Rishabh Iyer,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1262,Pending
+202622,Akshay Mehta,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1263,Pending
+202623,Vishal Bhatia,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1264,Pending
+202624,Aman Sharma,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1265,Pending
+202625,Sunil Menon,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1266,Pending
+202626,Suresh Kapoor,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1267,Pending
+202627,Ranjeet Rastogi,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1268,Pending
+202628,Chandan Joshi,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1269,Pending
+202629,Avinash Patel,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1270,Pending
+202630,Alok Verma,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1271,Pending
+202631,Manish Kapoor,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1272,Pending
+202632,Anand Iyer,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1273,Pending
+202633,Kunal Patel,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1274,Pending
+202634,Pratik Mehta,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1275,Pending
+202635,Shashi Rana,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1276,Pending
+202636,Rohit Menon,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1277,Pending
+202637,Nirav Bhatia,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1278,Pending
+202638,Rajat Mehta,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1279,Pending
+202639,Suraj Kapoor,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1280,Pending
+202640,Neeraj Bajaj,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1281,Pending
+202641,Ravi Rana,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1282,Pending
+202642,Shubham Mehta,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1283,Pending
+202643,Prateek Kapoor,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1284,Pending
+202644,Ashish Mehta,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1285,Pending
+202645,Kamal Suri,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1286,Pending
+202646,Varun Sharma,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1287,Pending
+202647,Sandeep Verma,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1288,Pending
+202648,Piyush Patel,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1289,Pending
+202649,Rajesh Kapoor,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1290,Pending
+202650,Gaurav Joshi,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1291,Pending
+202651,Anil Rastogi,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1292,Pending
+202652,Sameer Arora,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1293,Pending
+202653,Devendra Patel,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1294,Pending
+202654,Utkarsh Mehta,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1295,Pending
+202655,Rishabh Sharma,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1296,Pending
+202656,Akshay Joshi,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1297,Pending
+202657,Vishal Kapoor,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1298,Pending
+202658,Aman Mehta,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1299,Pending
+202659,Sunil Suri,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1300,Pending
+202660,Suresh Verma,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1301,Pending
+202661,Ranjeet Joshi,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1302,Pending
+202662,Chandan Mehta,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1303,Pending
+202663,Avinash Rastogi,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1304,Pending
+202664,Alok Patel,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1305,Pending
+202665,Manish Mehta,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1306,Pending
+202666,Anand Verma,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1307,Pending
+202667,Kunal Rastogi,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1308,Pending
+202668,Pratik Joshi,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1309,Pending
+202669,Shashi Mehta,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1310,Pending
+202670,Rohit Kapoor,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1311,Pending
+202671,Nirav Joshi,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1312,Pending
+202672,Rajat Rastogi,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1313,Pending
+202673,Prateek Mehta,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1314,Pending
+202674,Ashish Verma,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1315,Pending
+202675,Kamal Joshi,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1316,Pending
+202676,Varun Mehta,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1317,Pending
+202677,Sandeep Kapoor,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1318,Pending
+202678,Piyush Joshi,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1319,Pending
+202679,Rajesh Rastogi,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1320,Pending
+202680,Gaurav Arora,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1321,Pending
+202681,Anil Mehta,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1322,Pending
+202682,Sameer Patel,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1323,Pending
+202683,Devendra Mehta,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1324,Pending
+202684,Utkarsh Iyer,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1325,Pending
+202685,Rishabh Arora,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1326,Pending
+202686,Akshay Verma,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1327,Pending
+202687,Vishal Joshi,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1328,Pending
+202688,Aman Rastogi,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1329,Pending
+202689,Sunil Mehta,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1330,Pending
+202690,Suresh Rana,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1331,Pending
+202691,Ranjeet Mehta,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1332,Pending
+202692,Chandan Verma,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1333,Pending
+202693,Avinash Joshi,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1334,Pending
+202694,Alok Mehta,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1335,Pending
+202695,Manish Rastogi,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1336,Pending
+202696,Anand Patel,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1337,Pending
+202697,Kunal Mehta,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1338,Pending
+202698,Pratik Kapoor,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1339,Pending
+202699,Shashi Joshi,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1340,Pending
+202700,Rohit Rastogi,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1341,Pending
+202701,Nirav Mehta,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1342,Pending
+202702,Rajat Arora,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1343,Pending
+202703,Prateek Rana,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1344,Pending
+202704,Ashish Joshi,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1345,Pending
+202705,Kamal Mehta,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1346,Pending
+202706,Varun Rastogi,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1347,Pending
+202707,Sandeep Joshi,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1348,Pending
+202708,Piyush Mehta,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1349,Pending
+202709,Rajesh Mehta,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1350,Pending
+202710,Gaurav Patel,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1351,Pending
+202711,Anil Verma,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1352,Pending
+202712,Sameer Rana,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1353,Pending
+202713,Devendra Joshi,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1354,Pending
+202714,Utkarsh Rastogi,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1355,Pending
+202715,Rishabh Mehta,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1356,Pending
+202716,Akshay Kapoor,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1357,Pending
+202717,Vishal Mehta,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1358,Pending
+202718,Aman Joshi,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1359,Pending
+202719,Sunil Arora,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1360,Pending
+202720,Suresh Joshi,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1361,Pending
+202721,Ranjeet Kapoor,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1362,Pending
+202722,Chandan Rastogi,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1363,Pending
+202723,Avinash Mehta,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1364,Pending
+202724,Alok Arora,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1365,Pending
+202725,Manish Joshi,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1366,Pending
+202726,Anand Mehta,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1367,Pending
+202727,Kunal Arora,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1368,Pending
+202728,Pratik Verma,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1369,Pending
+202729,Shashi Rastogi,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1370,Pending
+202730,Rohit Mehta,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1371,Pending
+202731,Nirav Kapoor,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1372,Pending
+202732,Rajat Mehta,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1373,Pending
+202733,Prateek Joshi,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1374,Pending
+202734,Ashish Mehta,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1375,Pending
+202735,Kamal Rastogi,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1376,Pending
+202736,Varun Joshi,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1377,Pending
+202737,Sandeep Mehta,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1378,Pending
+202738,Piyush Kapoor,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1379,Pending
+202739,Rajesh Joshi,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1380,Pending
+202740,Gaurav Mehta,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1381,Pending
+202741,Anil Rana,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1382,Pending
+202742,Sameer Mehta,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1383,Pending
+202743,Devendra Rastogi,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1384,Pending
+202744,Utkarsh Arora,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1385,Pending
+202745,Rishabh Joshi,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1386,Pending
+202746,Akshay Rastogi,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1387,Pending
+202747,Vishal Mehta,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1388,Pending
+202748,Aman Arora,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1389,Pending
+202749,Sunil Joshi,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1390,Pending
+202750,Suresh Mehta,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1391,Pending
+202751,Ranjeet Rana,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1392,Pending
+202752,Chandan Kapoor,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1393,Pending
+202753,Avinash Joshi,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1394,Pending
+202754,Alok Mehta,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1395,Pending
+202755,Manish Arora,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1396,Pending
+202756,Anand Joshi,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1397,Pending
+202757,Kunal Mehta,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1398,Pending
+202758,Pratik Rastogi,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1399,Pending
+202759,Shashi Mehta,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1400,Pending
+202760,Rohit Joshi,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1401,Pending
+202761,Nirav Rana,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1402,Pending
+202762,Rajat Arora,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1403,Pending
+202763,Prateek Kapoor,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1404,Pending
+202764,Ashish Joshi,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1405,Pending
+202765,Kamal Mehta,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1406,Pending
+202766,Varun Mehta,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1407,Pending
+202767,Sandeep Rastogi,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1408,Pending
+202768,Piyush Joshi,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1409,Pending
+202769,Rajesh Arora,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1410,Pending
+202770,Gaurav Joshi,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1411,Pending
+202771,Anil Kapoor,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1412,Pending
+202772,Sameer Arora,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1413,Pending
+202773,Devendra Mehta,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1414,Pending
+202774,Utkarsh Joshi,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1415,Pending
+202775,Rishabh Mehta,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1416,Pending
+202776,Akshay Joshi,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1417,Pending
+202777,Vishal Arora,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1418,Pending
+202778,Aman Mehta,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1419,Pending
+202779,Sunil Rastogi,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1420,Pending
+202780,Suresh Mehta,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1421,Pending
+202781,Ranjeet Joshi,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1422,Pending
+202782,Chandan Mehta,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1423,Pending
+202783,Avinash Kapoor,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1424,Pending
+202784,Alok Joshi,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1425,Pending
+202785,Manish Rana,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1426,Pending
+202786,Anand Mehta,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1427,Pending
+202787,Kunal Arora,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1428,Pending
+202788,Pratik Mehta,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1429,Pending
+202789,Shashi Joshi,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1430,Pending
+202790,Rohit Rana,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1431,Pending
+202791,Nirav Arora,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1432,Pending
+202792,Rajat Mehta,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1433,Pending
+202793,Prateek Mehta,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1434,Pending
+202794,Ashish Rastogi,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1435,Pending
+202795,Kamal Joshi,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1436,Pending
+202796,Varun Mehta,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1437,Pending
+202797,Sandeep Arora,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1438,Pending
+202798,Piyush Joshi,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1439,Pending
+202799,Rajesh Joshi,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1440,Pending
+202800,Gaurav Mehta,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1441,Pending
+202801,Anil Mehta,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1442,Pending
+202802,Sameer Rastogi,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1443,Pending
+202803,Devendra Joshi,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1444,Pending
+202804,Utkarsh Kapoor,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1445,Pending
+202805,Rishabh Mehta,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1446,Pending
+202806,Akshay Arora,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1447,Pending
+202807,Vishal Joshi,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1448,Pending
+202808,Aman Joshi,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1449,Pending
+202809,Sunil Mehta,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1450,Pending
+202810,Suresh Arora,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1451,Pending
+202811,Ranjeet Kapoor,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1452,Pending
+202812,Chandan Mehta,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1453,Pending
+202813,Avinash Joshi,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1454,Pending
+202814,Alok Rana,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1455,Pending
+202815,Manish Joshi,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1456,Pending
+202816,Anand Rastogi,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1457,Pending
+202817,Kunal Mehta,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1458,Pending
+202818,Pratik Kapoor,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1459,Pending
+202819,Shashi Mehta,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1460,Pending
+202820,Rohit Joshi,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1461,Pending
+202821,Nirav Mehta,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1462,Pending
+202822,Rajat Arora,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1463,Pending
+202823,Prateek Rastogi,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1464,Pending
+202824,Ashish Mehta,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1465,Pending
+202825,Kamal Joshi,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1466,Pending
+202826,Varun Joshi,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1467,Pending
+202827,Sandeep Rana,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1468,Pending
+202828,Piyush Mehta,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1469,Pending
+202829,Rajesh Mehta,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1470,Pending
+202830,Gaurav Arora,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1471,Pending
+202831,Anil Kapoor,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1472,Pending
+202832,Sameer Mehta,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1473,Pending
+202833,Devendra Arora,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1474,Pending
+202834,Utkarsh Rastogi,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1475,Pending
+202835,Rishabh Kapoor,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1476,Pending
+202836,Akshay Mehta,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1477,Pending
+202837,Vishal Joshi,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1478,Pending
+202838,Aman Arora,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1479,Pending
+202839,Sunil Joshi,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1480,Pending
+202840,Suresh Mehta,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1481,Pending
+202841,Ranjeet Rastogi,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1482,Pending
+202842,Chandan Kapoor,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1483,Pending
+202843,Avinash Joshi,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1484,Pending
+202844,Alok Mehta,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1485,Pending
+202845,Manish Mehta,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1486,Pending
+202846,Anand Arora,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1487,Pending
+202847,Kunal Joshi,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1488,Pending
+202848,Pratik Rastogi,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1489,Pending
+202849,Shashi Mehta,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1490,Pending
+202850,Rohit Arora,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1491,Pending
+202851,Nirav Joshi,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1492,Pending
+202852,Rajat Mehta,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1493,Pending
+202853,Prateek Joshi,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1494,Pending
+202854,Ashish Rana,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1495,Pending
+202855,Kamal Mehta,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1496,Pending
+202856,Varun Mehta,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1497,Pending
+202857,Sandeep Joshi,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1498,Pending
+202858,Piyush Mehta,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1499,Pending
+202859,Rajesh Rastogi,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1500,Pending
+202860,Gaurav Kapoor,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1501,Pending
+202861,Anil Mehta,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1502,Pending
+202862,Sameer Mehta,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1503,Pending
+202863,Devendra Joshi,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1504,Pending
+202864,Utkarsh Mehta,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1505,Pending
+202865,Rishabh Arora,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1506,Pending
+202866,Akshay Joshi,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1507,Pending
+202867,Vishal Rana,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1508,Pending
+202868,Aman Kapoor,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1509,Pending
+202869,Sunil Joshi,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1510,Pending
+202870,Suresh Mehta,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1511,Pending
+202871,Ranjeet Arora,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1512,Pending
+202872,Chandan Joshi,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1513,Pending
+202873,Avinash Mehta,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1514,Pending
+202874,Alok Kapoor,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1515,Pending
+202875,Manish Joshi,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1516,Pending
+202876,Anand Joshi,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1517,Pending
+202877,Kunal Rana,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1518,Pending
+202878,Pratik Mehta,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1519,Pending
+202879,Shashi Mehta,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1520,Pending
+202880,Rohit Joshi,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1521,Pending
+202881,Nirav Rastogi,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1522,Pending
+202882,Rajat Kapoor,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1523,Pending
+202883,Prateek Joshi,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1524,Pending
+202884,Ashish Mehta,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1525,Pending
+202885,Kamal Arora,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1526,Pending
+202886,Varun Mehta,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1527,Pending
+202887,Sandeep Rana,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1528,Pending
+202888,Piyush Mehta,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1529,Pending
+202889,Rajesh Joshi,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1530,Pending
+202890,Gaurav Joshi,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1531,Pending
+202891,Anil Arora,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1532,Pending
+202892,Sameer Kapoor,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1533,Pending
+202893,Devendra Mehta,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1534,Pending
+202894,Utkarsh Joshi,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1535,Pending
+202895,Rishabh Rana,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1536,Pending
+202896,Akshay Mehta,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1537,Pending
+202897,Vishal Kapoor,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1538,Pending
+202898,Aman Rastogi,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1539,Pending
+202899,Sunil Joshi,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1540,Pending
+202900,Suresh Mehta,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1541,Pending
+202901,Ranjeet Mehta,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1542,Pending
+202902,Chandan Joshi,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1543,Pending
+202903,Avinash Arora,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1544,Pending
+202904,Alok Joshi,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1545,Pending
+202905,Manish Rastogi,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1546,Pending
+202906,Anand Mehta,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1547,Pending
+202907,Kunal Arora,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1548,Pending
+202908,Pratik Mehta,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1549,Pending
+202909,Shashi Rana,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1550,Pending
+202910,Rohit Mehta,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1551,Pending
+202911,Nirav Kapoor,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1552,Pending
+202912,Rajat Joshi,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1553,Pending
+202913,Prateek Joshi,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1554,Pending
+202914,Ashish Rastogi,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1555,Pending
+202915,Kamal Joshi,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1556,Pending
+202916,Varun Joshi,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1557,Pending
+202917,Sandeep Mehta,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1558,Pending
+202918,Piyush Kapoor,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1559,Pending
+202919,Rajesh Joshi,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1560,Pending
+202920,Gaurav Rastogi,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1561,Pending
+202921,Anil Arora,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1562,Pending
+202922,Sameer Joshi,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1563,Pending
+202923,Devendra Mehta,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1564,Pending
+202924,Utkarsh Rana,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1565,Pending
+202925,Rishabh Arora,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1566,Pending
+202926,Akshay Mehta,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1567,Pending
+202927,Vishal Mehta,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1568,Pending
+202928,Aman Joshi,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1569,Pending
+202929,Sunil Rastogi,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1570,Pending
+202930,Suresh Joshi,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1571,Pending
+202931,Ranjeet Joshi,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1572,Pending
+202932,Chandan Arora,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1573,Pending
+202933,Avinash Joshi,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1574,Pending
+202934,Alok Joshi,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1575,Pending
+202935,Manish Mehta,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1576,Pending
+202936,Anand Rana,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1577,Pending
+202937,Kunal Joshi,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1578,Pending
+202938,Pratik Kapoor,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1579,Pending
+202939,Shashi Mehta,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1580,Pending
+202940,Rohit Rastogi,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1581,Pending
+202941,Nirav Joshi,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1582,Pending
+202942,Rajat Kapoor,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1583,Pending
+202943,Prateek Mehta,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1584,Pending
+202944,Ashish Joshi,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1585,Pending
+202945,Kamal Arora,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1586,Pending
+202946,Varun Mehta,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1587,Pending
+202947,Sandeep Joshi,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1588,Pending
+202948,Piyush Mehta,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1589,Pending
+202949,Rajesh Rastogi,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1590,Pending
+202950,Gaurav Arora,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1591,Pending
+202951,Anil Kapoor,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1592,Pending
+202952,Sameer Joshi,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1593,Pending
+202953,Devendra Mehta,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1594,Pending
+202954,Utkarsh Rastogi,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1595,Pending
+202955,Rishabh Mehta,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1596,Pending
+202956,Akshay Arora,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1597,Pending
+202957,Vishal Joshi,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1598,Pending
+202958,Aman Kapoor,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1599,Pending
+202959,Sunil Kapoor,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1600,Pending
+202960,Gurmeet Sandhu,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1601,Pending
+202961,Shakti Kapoor,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1602,Pending
+202962,Anika Suri,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1603,Pending
+202963,Irfan Siddiqui,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1604,Pending
+202964,Chandan Mehta,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1605,Pending
+202965,Prateek Joshi,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1606,Pending
+202966,Manoj Bhatia,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1607,Pending
+202967,Ranjeet Rana,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1608,Pending
+202968,Sameer Arora,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1609,Pending
+202969,Divya Mehta,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1610,Pending
+202970,Raghav Verma,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1611,Pending
+202971,Shiva Srinivasan,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1612,Pending
+202972,Gurminder Gill,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1613,Pending
+202973,Veda Patel,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1614,Pending
+202974,James Joseph,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1615,Pending
+202975,Ramesh Gupta,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1616,Pending
+202976,Dinesh Patel,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1617,Pending
+202977,Amina Begum,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1618,Pending
+202978,Pooja Singh,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1619,Pending
+202979,Rishi Agarwal,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1620,Pending
+202980,Sana Sheikh,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1621,Pending
+202981,Suman,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1622,Pending
+202982,Arvind Kang,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1623,Pending
+202983,Sukhbir Bajaj,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1624,Pending
+202984,Rajan Bajaj,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1625,Pending
+202985,Niharika Reddy,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1626,Pending
+202986,Annamma Cherian,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1627,Pending
+202987,Abhinav Kapoor,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1628,Pending
+202988,Shazia Rizvi,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1629,Pending
+202989,Omkar Sharma,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1630,Pending
+202990,Nirav Bhatia,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1631,Pending
+202991,Parveen Shah,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1632,Pending
+202992,Piyush Joshi,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1633,Pending
+202993,Jaswinder Bhullar,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1634,Pending
+202994,Devika Patel,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1635,Pending
+202995,Prateek Mehta,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1636,Pending
+202996,Jamal Malik,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1637,Pending
+202997,Zayd Khan,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1638,Pending
+202998,Rani Sharma,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1639,Pending
+202999,Chetan Reddy,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1640,Pending
+203000,Utkarsh Joshi,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1641,Pending
+203001,Kamal Mehta,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1642,Pending
+203002,Alok Verma,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1643,Pending
+203003,Aarav Gupta,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1644,Pending
+203004,Pooja,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1645,Pending
+203005,Harvinder Dhillon,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1646,Pending
+203006,Sameer Mehta,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1647,Pending
+203007,Siddharth Desai,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1648,Pending
+203008,Charles Abraham,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1649,Pending
+203009,Parul,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1650,Pending
+203010,Manish Joshi,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1651,Pending
+203011,Rishabh Sharma,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1652,Pending
+203012,Aman Mehta,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1653,Pending
+203013,Fatima Rizvi,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1654,Pending
+203014,Ritu,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1655,Pending
+203015,Gurmeet Sandhu,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1656,Pending
+203016,Ayesha Ansari,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1657,Pending
+203017,Chandan Kapoor,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1658,Pending
+203018,Abhinay Rana,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1659,Pending
+203019,Devendra Arora,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1660,Pending
+203020,Kunal Mehta,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1661,Pending
+203021,Kavya Sharma,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1662,Pending
+203022,Zayd Khan,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1663,Pending
+203023,Karanpreet Gill,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1664,Pending
+203024,Kirti Suri,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1665,Pending
+203025,Farhan Hashmi,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1666,Pending
+203026,John David,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1667,Pending
+203027,Anil Mehta,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1668,Pending
+203028,Hina Sheikh,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1669,Pending
+203029,Sunil Mehta,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1670,Pending
+203030,Sameer Mehta,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1671,Pending
+203031,Aarav Gupta,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1672,Pending
+203032,Sanya,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1673,Pending
+203033,Manish Kapoor,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1674,Pending
+203034,Pramod Verma,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1675,Pending
+203035,Rajat Rastogi,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1676,Pending
+203036,Mira Verma,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1677,Pending
+203037,Suresh Arora,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1678,Pending
+203038,Rajesh Rastogi,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1679,Pending
+203039,Pooja,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1680,Pending
+203040,Jagmeet Sandhu,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1681,Pending
+203041,Alok Rana,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1682,Pending
+203042,Devendra Joshi,Visakhapatnam,Andhra Pradesh,Kidnapping,18-07-2023,Meera Kapoor,31,Pending Investigation,AP2023-1683,Pending
+203043,Pratik Mehta,Raipur,Chhattisgarh,Burglary,12-09-2023,Amit Kumar,27,Pending Investigation,CG2023-1684,Pending
+203044,Niharika Reddy,Kochi,Kerala,Robbery,25-08-2023,Vivek Nair,33,Pending Investigation,KL2023-1685,Pending
+203045,Rani Sharma,Bhopal,Madhya Pradesh,Cyber Fraud,01-09-2023,Richa Singh,30,Pending Investigation,MP2023-1686,Pending
+203046,Fatima Rizvi,Guwahati,Assam,Murder,10-09-2023,Rajesh Kumar,35,Pending Investigation,AS2023-1687,Pending
+203047,Pramod Verma,Patna,Bihar,Assault,20-08-2023,Vinod Verma,28,Pending Investigation,BR2023-1688,Pending
+203048,Sunil Suri,Dehradun,Uttarakhand,Vandalism,18-07-2023,Neeraj Sharma,34,Pending Investigation,UK2023-1689,Pending
+203049,Niharika Reddy,Ranchi,Jharkhand,Burglary,12-09-2023,Pooja Gupta,31,Pending Investigation,JH2023-1690,Pending
+203050,Rani Sharma,Amritsar,Punjab,Robbery,25-08-2023,Karan Malhotra,29,Pending Investigation,PB2023-1691,Pending
+203051,Fatima Rizvi,Jammu,Jammu and Kashmir,Drug Trafficking,01-09-2023,Meena Kapoor,35,Pending Investigation,J&K2023-1692,Pending
+203052,Pramod Verma,Imphal,Manipur,Fraud,10-09-2023,Vijay Singh,27,Pending Investigation,MN2023-1693,Pending
+203053,Sunil Suri,Agartala,Tripura,Burglary,20-08-2023,Kriti Sharma,32,Pending Investigation,TR2023-1694,Pending
+203054,Niharika Reddy,Gangtok,Sikkim,Kidnapping,18-07-2023,Sonia Reddy,28,Pending Investigation,SK2023-1695,Pending
+203055,Rani Sharma,Bhubaneswar,Odisha,Assault,12-09-2023,Rajiv Mehta,34,Pending Investigation,OD2023-1696,Pending
+203056,Fatima Rizvi,Shimla,Himachal Pradesh,Vandalism,25-08-2023,Priya Kapoor,30,Pending Investigation,HP2023-1697,Pending
+203057,Pramod Verma,Itanagar,Arunachal Pradesh,Robbery,01-09-2023,Anil Kumar,35,Pending Investigation,AR2023-1698,Pending
+203058,Sunil Suri,Kolkata,West Bengal,Drug Trafficking,10-09-2023,Nisha Kapoor,27,Pending Investigation,WB2023-1699,Pending
+203059,Niharika Reddy,Aizawl,Mizoram,Murder,20-08-2023,Ravi Verma,33,Pending Investigation,MZ2023-1700,Pending
+203060,Rani Sharma,Chandigarh,Haryana,Cyber Fraud,18-07-2023,Rajat Malhotra,29,Pending Investigation,HR2023-1701,Pending
+203061,Fatima Rizvi,Surat,Gujarat,Burglary,12-09-2023,Swati Desai,36,Pending Investigation,GJ2023-1702,Pending
+203062,Pramod Verma,Kanpur,Uttar Pradesh,Kidnapping,25-08-2023,Rajesh Verma,28,Pending Investigation,UP2023-1703,Pending
+203063,Sunil Suri,Coimbatore,Tamil Nadu,Assault,01-09-2023,Neha Singh,32,Pending Investigation,TN2023-1704,Pending
+203064,Niharika Reddy,Nagpur,Maharashtra,Robbery,10-09-2023,Vikram Desai,29,Pending Investigation,MH2023-1705,Pending
+203065,Rani Sharma,Ludhiana,Punjab,Drug Possession,20-08-2023,Arjun Khanna,34,Pending Investigation,PB2023-1706,Pending
